@@ -1,5 +1,5 @@
 # Responsive Animated Website
-## [Watch it on youtube](https://youtu.be/eTyFZKLVKs4)
+
 ### Responsive Animated Website
 
 - Responsive Animated Website Using HTML CSS And JavaScript
